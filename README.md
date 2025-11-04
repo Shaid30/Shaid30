@@ -1,6 +1,9 @@
-<img width="2048" height="1365" alt="20230812_090857_0000 (1)" src="https://github.com/user-attachments/assets/8861f9bd-a988-468f-9ad0-f21c52be68e0" />
-# 👋 Hi there, I'm Md. Abu Shaid  
+<img width="600" height="400" alt="20230812_090857_0000 (1)" src="https://github.com/user-attachments/assets/4e09cb42-de6d-401f-a394-d8d282746981" />
 
+
+
+
+# 👋 Hi there, I'm Md. Abu Shaid  
 🚀 **Computer Science Student | Future Web Developer | Django Enthusiast**  
 
 I'm currently studying at **Dhaka Polytechnic Institute**, Department of **Computer Science & Technology (8th Semester)**.  
@@ -31,6 +34,10 @@ I love building web applications and learning new technologies every day.
 
 
 ---
+
+
+
+
 
 ### 📊 GitHub Stats  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Shaid30&show_icons=true&theme=radical)  
