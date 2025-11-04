@@ -1,3 +1,4 @@
+<img width="2048" height="1365" alt="20230812_090857_0000 (1)" src="https://github.com/user-attachments/assets/8861f9bd-a988-468f-9ad0-f21c52be68e0" />
 # 👋 Hi there, I'm Md. Abu Shaid  
 
 🚀 **Computer Science Student | Future Web Developer | Django Enthusiast**  
